@@ -1,0 +1,5 @@
+[
+  {"id": "summarise-ticket", "text": "Summarise this support ticket in two sentences."},
+  {"id": "draft-reply", "text": "Draft a polite reply to a customer whose laptop will not connect to Wi-Fi."},
+  {"id": "explain-dns", "text": "Explain DNS in simple words for a new starter."}
+]
